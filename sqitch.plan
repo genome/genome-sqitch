@@ -359,3 +359,5 @@ remove_params_and_inputs_from_software_results [result_software_result] 2014-12-
 
 drop_featurelist_file_id [model_feature_list] 2014-12-18T15:26:31Z Thomas B. Mooney <tmooney@genome.wustl.edu> # drop obsolete column
 @1419272844 2014-12-22T18:27:24Z Thomas B. Mooney <tmooney@genome.wustl.edu># dropped file_id column from feature lists
+
+result.user.index_unique [result_user] 2015-03-05T14:47:59Z Thomas B. Mooney <tmooney@genome.wustl.edu> # only one identical user per SR
