@@ -361,3 +361,4 @@ drop_featurelist_file_id [model_feature_list] 2014-12-18T15:26:31Z Thomas B. Moo
 @1419272844 2014-12-22T18:27:24Z Thomas B. Mooney <tmooney@genome.wustl.edu># dropped file_id column from feature lists
 
 result.user.index_unique [result_user] 2015-03-05T14:47:59Z Thomas B. Mooney <tmooney@genome.wustl.edu> # only one identical user per SR
+@apipe-ci/genome-sqitch-13 2015-09-22T16:09:52Z Apipe Tester <apipe-tester@linuscs125> # apipe-ci/genome-sqitch-13
