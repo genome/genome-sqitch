@@ -365,3 +365,5 @@ result.user.index_unique [result_user] 2015-03-05T14:47:59Z Thomas B. Mooney <tm
 
 add_table_for_qc_config [config_schema] 2015-09-22T16:10:10Z Susanna Siebert <ssiebert@genome.wustl.edu> # This change adds a table for storing Genome::Qc::Config
 @apipe-ci/genome-sqitch-14 2015-09-29T18:34:03Z Apipe Tester <apipe-tester@linuscs125> # apipe-ci/genome-sqitch-14
+
+set_permissions_for_qc_config [add_table_for_qc_config] 2015-09-29T20:02:55Z Susanna Kiwala <ssiebert@genome.wustl.edu> # Set permissions for the QC config table
