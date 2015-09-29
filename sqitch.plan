@@ -362,3 +362,5 @@ drop_featurelist_file_id [model_feature_list] 2014-12-18T15:26:31Z Thomas B. Moo
 
 result.user.index_unique [result_user] 2015-03-05T14:47:59Z Thomas B. Mooney <tmooney@genome.wustl.edu> # only one identical user per SR
 @apipe-ci/genome-sqitch-13 2015-09-22T16:09:52Z Apipe Tester <apipe-tester@linuscs125> # apipe-ci/genome-sqitch-13
+
+add_table_for_qc_config [config_schema] 2015-09-22T16:10:10Z Susanna Siebert <ssiebert@genome.wustl.edu> # This change adds a table for storing Genome::Qc::Config
