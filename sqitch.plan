@@ -367,3 +367,4 @@ add_table_for_qc_config [config_schema] 2015-09-22T16:10:10Z Susanna Siebert <ss
 @apipe-ci/genome-sqitch-14 2015-09-29T18:34:03Z Apipe Tester <apipe-tester@linuscs125> # apipe-ci/genome-sqitch-14
 
 set_permissions_for_qc_config [add_table_for_qc_config] 2015-09-29T20:02:55Z Susanna Kiwala <ssiebert@genome.wustl.edu> # Set permissions for the QC config table
+@apipe-ci/genome-sqitch-15 2015-10-08T15:49:43Z Apipe Tester <apipe-tester@linuscs125> # apipe-ci/genome-sqitch-15
