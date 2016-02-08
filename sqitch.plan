@@ -371,3 +371,5 @@ set_permissions_for_qc_config [add_table_for_qc_config] 2015-09-29T20:02:55Z Sus
 
 config.analysismenu_item.status [config_analysismenu_item] 2015-10-12T21:11:09Z Thomas B. Mooney <tmooney@genome.wustl.edu># Add status to analysis menu items.
 @apipe-ci/genome-sqitch-16 2015-10-28T19:17:38Z Apipe Tester <apipe-tester@linuscs125> # apipe-ci/genome-sqitch-16
+
+model.model.subject_class_name.allow_null [config.analysismenu_item.status] 2016-02-08T20:40:16Z Michael Kiwala <mkiwala@genome.wustl.edu> # Allow nullable values on model.subject_class_name
